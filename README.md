@@ -14,7 +14,7 @@
 ---  
 
 ## 🛠 Tech Stack  
-- 🔹 **Microcontroller:** PIC18F4580  
-- 🔹 **Programming Language:** Embedded C  
-- 🔹 **Concepts Used:** Sensors, UART, EEPROM, Interrupts  
-- 🔹 **Compilation:** MPLAB X IDE / XC8 Compiler    
+- 🔹 Microcontroller: PIC18F4580  
+- 🔹 Programming Language: Embedded C ,mc programming
+- 🔹 Concepts Used:Sensors, UART, EEPROM, Interrupts  
+- 🔹 Compilation: MPLAB X IDE / XC8 Compiler    
